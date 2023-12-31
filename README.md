@@ -4,7 +4,7 @@ Implementation of a Naïve Bayesian classifier that calculates and reports the p
 
 ## Title
 
-Naive Bayesian Classification
+CS 131 HW 05 - Naive Bayesian Classification
 
 ## Author
 
@@ -41,7 +41,7 @@ scikit-learn.org
 
 ## Running The Program
 
-To run the radar, use "python3 radar.py"
+To run the radar, use "python radar.py"
 
 ## User Inputs
 
